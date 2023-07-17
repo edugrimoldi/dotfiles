@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edugrimoldi@gmail.com
+	name = Eduardo Grimoldi
